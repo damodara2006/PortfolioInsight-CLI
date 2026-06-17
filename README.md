@@ -1,5 +1,5 @@
 # PortfolioInsight CLI
-
+https://github.com/damodara2006/PortfolioInsight-CLI/blob/master/README.md
 PortfolioInsight CLI is a production-style Python 3.11+ Retrieval-Augmented Generation (RAG) CLI for a BYLD Wealth take-home assignment.
 
 It now includes a Rich Terminal UI (TUI) for executive scannability, while still keeping strict JSON outputs for automation.
